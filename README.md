@@ -16,4 +16,4 @@ No. Sending a message requires a bunch of steps to work together, like typing it
 
 **2) Would you use a unit test to test the "max message length" feature of a messaging application? Why or why not?**
 
-Yes. All it does is check if the message is too long or not. That is one small piece of logic that you can easily test on its own by passing in short and long strings and checking the result.
+Yes. All it does is check whether the message is too long or not. That is one small piece of logic that you can easily test on its own by passing in short and long strings and checking the result.
